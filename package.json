@@ -1,0 +1,19 @@
+{
+  "name": "gigfy",
+  "license": "MIT",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.1"
+  },
+  "devDependencies": {
+    "nuxt": "^3.17.0",
+    "playwright": "^1.60.0"
+  }
+}
