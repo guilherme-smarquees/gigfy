@@ -1,4 +1,5 @@
 export default defineNuxtConfig({
+  modules: [['nuxt-gtag', { id: 'G-ET20XN4RMN' }]],
   srcDir: 'src',
   ssr: false,
   app: {
